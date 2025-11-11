@@ -1,0 +1,104 @@
+_id,nombre,categoria,descripcion,precio,stock,proveedor,tueste,origen,tipo_grano,fecha_creacion
+691350df2dd880fdfcd9d99e,Café Orgánico Molido 1 (500g),Café,"Café orgánico de Santander, lote #1",42248,102,Finca El Roble,Oscuro,El Socorro,Arábica,2025-10-20T00:00:00.000Z
+691350df2dd880fdfcd9d9a0,Café Orgánico Molido 3 (500g),Café,"Café orgánico de Santander, lote #3",31372,36,Finca El Roble,Claro,San Gil,Arábica,2025-09-30T00:00:00.000Z
+691350df2dd880fdfcd9d9a1,Café Orgánico Molido 4 (500g),Café,"Café orgánico de Santander, lote #4",23111,67,Finca El Roble,Oscuro,Barichara,Arábica,2025-09-20T00:00:00.000Z
+691350df2dd880fdfcd9d9a2,Café Orgánico Molido 5 (500g),Café,"Café orgánico de Santander, lote #5",46294,11,Finca El Roble,Oscuro,San Gil,Arábica,2025-11-03T00:00:00.000Z
+691350df2dd880fdfcd9d9a3,Café Orgánico Molido 6 (500g),Café,"Café orgánico de Santander, lote #6",24251,193,Finca El Roble,Medio,El Socorro,Arábica,2025-10-09T00:00:00.000Z
+691350df2dd880fdfcd9d9a4,Café Orgánico Molido 7 (500g),Café,"Café orgánico de Santander, lote #7",36535,73,Finca El Roble,Medio,San Gil,Arábica,2025-10-29T00:00:00.000Z
+691350df2dd880fdfcd9d9a5,Café Orgánico Molido 8 (500g),Café,"Café orgánico de Santander, lote #8",38269,29,Finca El Roble,Oscuro,Barichara,Arábica,2025-11-09T00:00:00.000Z
+691350df2dd880fdfcd9d9a6,Café Orgánico Molido 9 (500g),Café,"Café orgánico de Santander, lote #9",39941,131,Finca El Roble,Medio,El Socorro,Arábica,2025-09-27T00:00:00.000Z
+691350df2dd880fdfcd9d9a7,Café Orgánico Molido 10 (500g),Café,"Café orgánico de Santander, lote #10",26807,141,Finca El Roble,Medio,Barichara,Arábica,2025-10-28T00:00:00.000Z
+691350df2dd880fdfcd9d9a8,Café Orgánico Molido 11 (500g),Café,"Café orgánico de Santander, lote #11",37706,109,Finca El Roble,Medio,San Gil,Arábica,2025-10-08T00:00:00.000Z
+691350df2dd880fdfcd9d9a9,Café Orgánico Molido 12 (500g),Café,"Café orgánico de Santander, lote #12",45840,100,Finca El Roble,Claro,Barichara,Arábica,2025-10-27T00:00:00.000Z
+691350df2dd880fdfcd9d9aa,Café Orgánico Molido 13 (500g),Café,"Café orgánico de Santander, lote #13",44253,122,Finca El Roble,Claro,San Gil,Arábica,2025-09-26T00:00:00.000Z
+691350df2dd880fdfcd9d9ab,Café Orgánico Molido 14 (500g),Café,"Café orgánico de Santander, lote #14",48922,98,Finca El Roble,Claro,San Gil,Arábica,2025-11-06T00:00:00.000Z
+691350df2dd880fdfcd9d9ac,Café Orgánico Molido 15 (500g),Café,"Café orgánico de Santander, lote #15",40475,47,Finca El Roble,Claro,Barichara,Arábica,2025-09-14T00:00:00.000Z
+691350df2dd880fdfcd9d9ad,Café Orgánico Molido 16 (500g),Café,"Café orgánico de Santander, lote #16",36799,99,Finca El Roble,Medio,Barichara,Arábica,2025-10-01T00:00:00.000Z
+691350df2dd880fdfcd9d9ae,Café Orgánico Molido 17 (500g),Café,"Café orgánico de Santander, lote #17",35600,54,Finca El Roble,Claro,San Gil,Arábica,2025-10-26T00:00:00.000Z
+691350df2dd880fdfcd9d9af,Café Orgánico Molido 18 (500g),Café,"Café orgánico de Santander, lote #18",29714,21,Finca El Roble,Medio,San Gil,Arábica,2025-09-13T00:00:00.000Z
+691350df2dd880fdfcd9d9b0,Café Orgánico Molido 19 (500g),Café,"Café orgánico de Santander, lote #19",21011,113,Finca El Roble,Medio,El Socorro,Arábica,2025-11-09T00:00:00.000Z
+691350df2dd880fdfcd9d9b1,Café Orgánico Molido 20 (500g),Café,"Café orgánico de Santander, lote #20",43534,170,Finca El Roble,Medio,San Gil,Arábica,2025-11-01T00:00:00.000Z
+691350df2dd880fdfcd9d9b2,Café Orgánico Molido 21 (500g),Café,"Café orgánico de Santander, lote #21",44841,197,Finca El Roble,Claro,San Gil,Arábica,2025-09-14T00:00:00.000Z
+691350df2dd880fdfcd9d9b3,Café Orgánico Molido 22 (500g),Café,"Café orgánico de Santander, lote #22",47859,143,Finca El Roble,Medio,San Gil,Arábica,2025-09-27T00:00:00.000Z
+691350df2dd880fdfcd9d9b4,Café Orgánico Molido 23 (500g),Café,"Café orgánico de Santander, lote #23",34484,92,Finca El Roble,Oscuro,Barichara,Arábica,2025-11-08T00:00:00.000Z
+691350df2dd880fdfcd9d9b5,Café Orgánico Molido 24 (500g),Café,"Café orgánico de Santander, lote #24",37845,180,Finca El Roble,Medio,El Socorro,Arábica,2025-09-24T00:00:00.000Z
+691350df2dd880fdfcd9d9b6,Café Orgánico Molido 25 (500g),Café,"Café orgánico de Santander, lote #25",26625,106,Finca El Roble,Oscuro,Barichara,Arábica,2025-10-04T00:00:00.000Z
+691350df2dd880fdfcd9d9b7,Café Orgánico Molido 26 (500g),Café,"Café orgánico de Santander, lote #26",23056,123,Finca El Roble,Claro,Barichara,Arábica,2025-10-22T00:00:00.000Z
+691350df2dd880fdfcd9d9b8,Café Orgánico Molido 27 (500g),Café,"Café orgánico de Santander, lote #27",49242,61,Finca El Roble,Oscuro,Barichara,Arábica,2025-10-04T00:00:00.000Z
+691350df2dd880fdfcd9d9b9,Café Orgánico Molido 28 (500g),Café,"Café orgánico de Santander, lote #28",44931,164,Finca El Roble,Medio,San Gil,Arábica,2025-09-12T00:00:00.000Z
+691350df2dd880fdfcd9d9ba,Café Orgánico Molido 29 (500g),Café,"Café orgánico de Santander, lote #29",28225,21,Finca El Roble,Oscuro,El Socorro,Arábica,2025-10-17T00:00:00.000Z
+691350df2dd880fdfcd9d9bb,Café Orgánico Molido 30 (500g),Café,"Café orgánico de Santander, lote #30",35188,83,Finca El Roble,Claro,El Socorro,Arábica,2025-11-06T00:00:00.000Z
+691350df2dd880fdfcd9d9bc,Café Orgánico Molido 31 (500g),Café,"Café orgánico de Santander, lote #31",34792,115,Finca El Roble,Medio,El Socorro,Arábica,2025-10-01T00:00:00.000Z
+691350df2dd880fdfcd9d9bd,Café Orgánico Molido 32 (500g),Café,"Café orgánico de Santander, lote #32",31792,34,Finca El Roble,Oscuro,Barichara,Arábica,2025-10-19T00:00:00.000Z
+691350df2dd880fdfcd9d9be,Café Orgánico Molido 33 (500g),Café,"Café orgánico de Santander, lote #33",31894,159,Finca El Roble,Medio,Barichara,Arábica,2025-11-01T00:00:00.000Z
+691350df2dd880fdfcd9d9bf,Café Orgánico Molido 34 (500g),Café,"Café orgánico de Santander, lote #34",36254,57,Finca El Roble,Oscuro,El Socorro,Arábica,2025-10-04T00:00:00.000Z
+691350df2dd880fdfcd9d9c0,Café Orgánico Molido 35 (500g),Café,"Café orgánico de Santander, lote #35",42162,155,Finca El Roble,Medio,El Socorro,Arábica,2025-09-23T00:00:00.000Z
+691350df2dd880fdfcd9d9c1,Café Orgánico Molido 36 (500g),Café,"Café orgánico de Santander, lote #36",44823,186,Finca El Roble,Oscuro,Barichara,Arábica,2025-10-01T00:00:00.000Z
+691350df2dd880fdfcd9d9c2,Café Orgánico Molido 37 (500g),Café,"Café orgánico de Santander, lote #37",43182,139,Finca El Roble,Claro,San Gil,Arábica,2025-11-01T00:00:00.000Z
+691350df2dd880fdfcd9d9c3,Café Orgánico Molido 38 (500g),Café,"Café orgánico de Santander, lote #38",30629,104,Finca El Roble,Claro,El Socorro,Arábica,2025-10-14T00:00:00.000Z
+691350df2dd880fdfcd9d9c4,Café Orgánico Molido 39 (500g),Café,"Café orgánico de Santander, lote #39",49548,51,Finca El Roble,Medio,El Socorro,Arábica,2025-11-03T00:00:00.000Z
+691350df2dd880fdfcd9d9c5,Café Orgánico Molido 40 (500g),Café,"Café orgánico de Santander, lote #40",30775,180,Finca El Roble,Claro,Barichara,Arábica,2025-09-30T00:00:00.000Z
+691350df2dd880fdfcd9d9c6,Café Orgánico Molido 41 (500g),Café,"Café orgánico de Santander, lote #41",39390,152,Finca El Roble,Oscuro,San Gil,Arábica,2025-10-18T00:00:00.000Z
+691350df2dd880fdfcd9d9c7,Café Orgánico Molido 42 (500g),Café,"Café orgánico de Santander, lote #42",46149,28,Finca El Roble,Medio,Barichara,Arábica,2025-09-15T00:00:00.000Z
+691350df2dd880fdfcd9d9c8,Café Orgánico Molido 43 (500g),Café,"Café orgánico de Santander, lote #43",41838,169,Finca El Roble,Claro,San Gil,Arábica,2025-10-12T00:00:00.000Z
+691350df2dd880fdfcd9d9c9,Café Orgánico Molido 44 (500g),Café,"Café orgánico de Santander, lote #44",35455,138,Finca El Roble,Medio,San Gil,Arábica,2025-10-24T00:00:00.000Z
+691350df2dd880fdfcd9d9ca,Café Orgánico Molido 45 (500g),Café,"Café orgánico de Santander, lote #45",25251,119,Finca El Roble,Medio,El Socorro,Arábica,2025-09-30T00:00:00.000Z
+691350df2dd880fdfcd9d9cb,Café Orgánico Molido 46 (500g),Café,"Café orgánico de Santander, lote #46",32333,76,Finca El Roble,Medio,Barichara,Arábica,2025-11-04T00:00:00.000Z
+691350df2dd880fdfcd9d9cc,Café Orgánico Molido 47 (500g),Café,"Café orgánico de Santander, lote #47",48596,104,Finca El Roble,Claro,Barichara,Arábica,2025-09-23T00:00:00.000Z
+691350df2dd880fdfcd9d9cd,Café Orgánico Molido 48 (500g),Café,"Café orgánico de Santander, lote #48",38965,75,Finca El Roble,Claro,El Socorro,Arábica,2025-10-08T00:00:00.000Z
+691350df2dd880fdfcd9d9ce,Café Orgánico Molido 49 (500g),Café,"Café orgánico de Santander, lote #49",26510,84,Finca El Roble,Oscuro,Barichara,Arábica,2025-11-11T00:00:00.000Z
+691350df2dd880fdfcd9d9cf,Café Orgánico Molido 50 (500g),Café,"Café orgánico de Santander, lote #50",30799,182,Finca El Roble,Claro,San Gil,Arábica,2025-11-01T00:00:00.000Z
+691350df2dd880fdfcd9d9d0,Café Orgánico Molido 51 (500g),Café,"Café orgánico de Santander, lote #51",29541,59,Finca El Roble,Oscuro,Barichara,Arábica,2025-10-18T00:00:00.000Z
+691350df2dd880fdfcd9d9d1,Café Orgánico Molido 52 (500g),Café,"Café orgánico de Santander, lote #52",47852,34,Finca El Roble,Claro,San Gil,Arábica,2025-10-28T00:00:00.000Z
+691350df2dd880fdfcd9d9d2,Café Orgánico Molido 53 (500g),Café,"Café orgánico de Santander, lote #53",35739,154,Finca El Roble,Claro,Barichara,Arábica,2025-11-08T00:00:00.000Z
+691350df2dd880fdfcd9d9d3,Café Orgánico Molido 54 (500g),Café,"Café orgánico de Santander, lote #54",20924,122,Finca El Roble,Medio,San Gil,Arábica,2025-11-02T00:00:00.000Z
+691350df2dd880fdfcd9d9d4,Café Orgánico Molido 55 (500g),Café,"Café orgánico de Santander, lote #55",41856,76,Finca El Roble,Medio,Barichara,Arábica,2025-11-04T00:00:00.000Z
+691350df2dd880fdfcd9d9d5,Café Orgánico Molido 56 (500g),Café,"Café orgánico de Santander, lote #56",41653,183,Finca El Roble,Claro,El Socorro,Arábica,2025-09-15T00:00:00.000Z
+691350df2dd880fdfcd9d9d6,Café Orgánico Molido 57 (500g),Café,"Café orgánico de Santander, lote #57",35634,16,Finca El Roble,Medio,El Socorro,Arábica,2025-10-13T00:00:00.000Z
+691350df2dd880fdfcd9d9d7,Café Orgánico Molido 58 (500g),Café,"Café orgánico de Santander, lote #58",39691,185,Finca El Roble,Claro,El Socorro,Arábica,2025-10-31T00:00:00.000Z
+691350df2dd880fdfcd9d9d8,Café Orgánico Molido 59 (500g),Café,"Café orgánico de Santander, lote #59",40745,157,Finca El Roble,Oscuro,San Gil,Arábica,2025-10-30T00:00:00.000Z
+691350df2dd880fdfcd9d9d9,Café Orgánico Molido 60 (500g),Café,"Café orgánico de Santander, lote #60",39299,175,Finca El Roble,Medio,Barichara,Arábica,2025-11-01T00:00:00.000Z
+691350df2dd880fdfcd9d9da,Café Orgánico Molido 61 (500g),Café,"Café orgánico de Santander, lote #61",30857,64,Finca El Roble,Claro,El Socorro,Arábica,2025-10-09T00:00:00.000Z
+691350df2dd880fdfcd9d9db,Café Orgánico Molido 62 (500g),Café,"Café orgánico de Santander, lote #62",39864,25,Finca El Roble,Claro,San Gil,Arábica,2025-09-24T00:00:00.000Z
+691350df2dd880fdfcd9d9dc,Café Orgánico Molido 63 (500g),Café,"Café orgánico de Santander, lote #63",32554,85,Finca El Roble,Medio,Barichara,Arábica,2025-09-30T00:00:00.000Z
+691350df2dd880fdfcd9d9dd,Café Orgánico Molido 64 (500g),Café,"Café orgánico de Santander, lote #64",22985,102,Finca El Roble,Claro,San Gil,Arábica,2025-10-21T00:00:00.000Z
+691350df2dd880fdfcd9d9de,Café Orgánico Molido 65 (500g),Café,"Café orgánico de Santander, lote #65",20592,84,Finca El Roble,Claro,Barichara,Arábica,2025-10-02T00:00:00.000Z
+691350df2dd880fdfcd9d9df,Café Orgánico Molido 66 (500g),Café,"Café orgánico de Santander, lote #66",21520,97,Finca El Roble,Oscuro,El Socorro,Arábica,2025-10-11T00:00:00.000Z
+691350df2dd880fdfcd9d9e0,Café Orgánico Molido 67 (500g),Café,"Café orgánico de Santander, lote #67",37079,33,Finca El Roble,Medio,San Gil,Arábica,2025-10-26T00:00:00.000Z
+691350df2dd880fdfcd9d9e1,Café Orgánico Molido 68 (500g),Café,"Café orgánico de Santander, lote #68",25599,176,Finca El Roble,Claro,San Gil,Arábica,2025-09-18T00:00:00.000Z
+691350df2dd880fdfcd9d9e2,Café Orgánico Molido 69 (500g),Café,"Café orgánico de Santander, lote #69",20712,146,Finca El Roble,Claro,El Socorro,Arábica,2025-09-29T00:00:00.000Z
+691350df2dd880fdfcd9d9e3,Café Orgánico Molido 70 (500g),Café,"Café orgánico de Santander, lote #70",37541,170,Finca El Roble,Medio,El Socorro,Arábica,2025-09-28T00:00:00.000Z
+691350df2dd880fdfcd9d9e4,Café Orgánico Molido 71 (500g),Café,"Café orgánico de Santander, lote #71",46934,67,Finca El Roble,Oscuro,San Gil,Arábica,2025-09-27T00:00:00.000Z
+691350df2dd880fdfcd9d9e5,Café Orgánico Molido 72 (500g),Café,"Café orgánico de Santander, lote #72",41521,66,Finca El Roble,Oscuro,Barichara,Arábica,2025-10-09T00:00:00.000Z
+691350df2dd880fdfcd9d9e6,Café Orgánico Molido 73 (500g),Café,"Café orgánico de Santander, lote #73",24708,38,Finca El Roble,Medio,Barichara,Arábica,2025-11-04T00:00:00.000Z
+691350df2dd880fdfcd9d9e7,Café Orgánico Molido 74 (500g),Café,"Café orgánico de Santander, lote #74",48670,160,Finca El Roble,Oscuro,San Gil,Arábica,2025-10-09T00:00:00.000Z
+691350df2dd880fdfcd9d9e8,Café Orgánico Molido 75 (500g),Café,"Café orgánico de Santander, lote #75",46011,99,Finca El Roble,Oscuro,San Gil,Arábica,2025-10-09T00:00:00.000Z
+691350df2dd880fdfcd9d9e9,Café Orgánico Molido 76 (500g),Café,"Café orgánico de Santander, lote #76",44517,187,Finca El Roble,Oscuro,El Socorro,Arábica,2025-10-13T00:00:00.000Z
+691350df2dd880fdfcd9d9ea,Café Orgánico Molido 77 (500g),Café,"Café orgánico de Santander, lote #77",39732,65,Finca El Roble,Oscuro,San Gil,Arábica,2025-10-25T00:00:00.000Z
+691350df2dd880fdfcd9d9eb,Café Orgánico Molido 78 (500g),Café,"Café orgánico de Santander, lote #78",23811,72,Finca El Roble,Medio,El Socorro,Arábica,2025-11-10T00:00:00.000Z
+691350df2dd880fdfcd9d9ec,Café Orgánico Molido 79 (500g),Café,"Café orgánico de Santander, lote #79",20603,37,Finca El Roble,Claro,San Gil,Arábica,2025-09-17T00:00:00.000Z
+691350df2dd880fdfcd9d9ed,Café Orgánico Molido 80 (500g),Café,"Café orgánico de Santander, lote #80",20423,59,Finca El Roble,Claro,San Gil,Arábica,2025-10-08T00:00:00.000Z
+691350df2dd880fdfcd9d9ee,Café Orgánico Molido 81 (500g),Café,"Café orgánico de Santander, lote #81",48273,91,Finca El Roble,Claro,San Gil,Arábica,2025-10-27T00:00:00.000Z
+691350df2dd880fdfcd9d9ef,Café Orgánico Molido 82 (500g),Café,"Café orgánico de Santander, lote #82",40104,75,Finca El Roble,Oscuro,Barichara,Arábica,2025-09-21T00:00:00.000Z
+691350df2dd880fdfcd9d9f0,Café Orgánico Molido 83 (500g),Café,"Café orgánico de Santander, lote #83",35507,145,Finca El Roble,Claro,San Gil,Arábica,2025-10-14T00:00:00.000Z
+691350df2dd880fdfcd9d9f1,Café Orgánico Molido 84 (500g),Café,"Café orgánico de Santander, lote #84",34948,143,Finca El Roble,Claro,Barichara,Arábica,2025-09-28T00:00:00.000Z
+691350df2dd880fdfcd9d9f2,Café Orgánico Molido 85 (500g),Café,"Café orgánico de Santander, lote #85",48008,129,Finca El Roble,Medio,San Gil,Arábica,2025-10-12T00:00:00.000Z
+691350df2dd880fdfcd9d9f3,Café Orgánico Molido 86 (500g),Café,"Café orgánico de Santander, lote #86",25939,199,Finca El Roble,Claro,El Socorro,Arábica,2025-11-07T00:00:00.000Z
+691350df2dd880fdfcd9d9f4,Café Orgánico Molido 87 (500g),Café,"Café orgánico de Santander, lote #87",49330,121,Finca El Roble,Medio,Barichara,Arábica,2025-09-15T00:00:00.000Z
+691350df2dd880fdfcd9d9f5,Café Orgánico Molido 88 (500g),Café,"Café orgánico de Santander, lote #88",35571,162,Finca El Roble,Medio,San Gil,Arábica,2025-09-23T00:00:00.000Z
+691350df2dd880fdfcd9d9f6,Café Orgánico Molido 89 (500g),Café,"Café orgánico de Santander, lote #89",24331,102,Finca El Roble,Oscuro,San Gil,Arábica,2025-10-26T00:00:00.000Z
+691350df2dd880fdfcd9d9f7,Café Orgánico Molido 90 (500g),Café,"Café orgánico de Santander, lote #90",31519,100,Finca El Roble,Claro,El Socorro,Arábica,2025-10-01T00:00:00.000Z
+691350df2dd880fdfcd9d9f8,Café Orgánico Molido 91 (500g),Café,"Café orgánico de Santander, lote #91",44916,79,Finca El Roble,Medio,San Gil,Arábica,2025-10-16T00:00:00.000Z
+691350df2dd880fdfcd9d9f9,Café Orgánico Molido 92 (500g),Café,"Café orgánico de Santander, lote #92",45974,68,Finca El Roble,Claro,El Socorro,Arábica,2025-09-19T00:00:00.000Z
+691350df2dd880fdfcd9d9fa,Café Orgánico Molido 93 (500g),Café,"Café orgánico de Santander, lote #93",45482,86,Finca El Roble,Oscuro,Barichara,Arábica,2025-11-05T00:00:00.000Z
+691350df2dd880fdfcd9d9fb,Café Orgánico Molido 94 (500g),Café,"Café orgánico de Santander, lote #94",33965,98,Finca El Roble,Claro,El Socorro,Arábica,2025-09-13T00:00:00.000Z
+691350df2dd880fdfcd9d9fc,Café Orgánico Molido 95 (500g),Café,"Café orgánico de Santander, lote #95",30997,141,Finca El Roble,Medio,Barichara,Arábica,2025-10-21T00:00:00.000Z
+691350df2dd880fdfcd9d9fd,Café Orgánico Molido 96 (500g),Café,"Café orgánico de Santander, lote #96",27024,165,Finca El Roble,Medio,San Gil,Arábica,2025-09-24T00:00:00.000Z
+691350df2dd880fdfcd9d9fe,Café Orgánico Molido 97 (500g),Café,"Café orgánico de Santander, lote #97",49242,86,Finca El Roble,Medio,El Socorro,Arábica,2025-10-15T00:00:00.000Z
+691350df2dd880fdfcd9d9ff,Café Orgánico Molido 98 (500g),Café,"Café orgánico de Santander, lote #98",34393,118,Finca El Roble,Claro,San Gil,Arábica,2025-11-01T00:00:00.000Z
+691350df2dd880fdfcd9da00,Café Orgánico Molido 99 (500g),Café,"Café orgánico de Santander, lote #99",33729,160,Finca El Roble,Oscuro,Barichara,Arábica,2025-10-21T00:00:00.000Z
+691350df2dd880fdfcd9da01,Café Orgánico Molido 100 (500g),Café,"Café orgánico de Santander, lote #100",25364,173,Finca El Roble,Medio,San Gil,Arábica,2025-10-29T00:00:00.000Z
+69135c56089cda3d29f3a657,Café Especial Reserva 2025 (1kg),Café,Granos seleccionados de alta montaña santandereana,52000,75,Finca La Esperanza,Oscuro,Barichara,Arábica,2025-11-11T15:55:02.176Z
+69135ca0687239c1e51be5a8,Café Orgánico Molido 1 (500g),Café,"Café orgánico de Santander, lote #1",42248,102,Finca El Roble,Oscuro,El Socorro,Arábica,
+69135cdb687239c1e51be5a9,Café la Molienda,Café Tostado,Café orgánico fuerte,42248,102,Finca El Roble,Oscuro,El Socorro,Arábica,
+69135d38687239c1e51be5aa,Café la Molienda,Café Tostado,Café orgánico fuerte,42248,102,Finca El Roble,Oscuro,El Socorro,Arábica,

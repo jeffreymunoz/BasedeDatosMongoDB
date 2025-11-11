@@ -1,0 +1,48 @@
+Código para insertar nuevos datos a las tablas
+
+db["cafesantander"].insertOne({
+  nombre: "Jeffrey Muñoz",
+  correo: "jeffreymm6@gmail.com",
+  telefono: "3143082347",
+  direccion: "Cra 3 # 1 - 16"
+)
+
+Codigo para consultar datos de la tabla. En este caso se busca en la tabla todos los elementos que sean de la misma categoría 
+
+db["cafesantander"].find({ categoria: "Café" }).limit(5)
+
+código para actualizar datos de las tablas. en este caso se actualiza el precio del café en donde todos lleven ese mismo nombre
+
+db["cafesantander"].updateOne(
+  { nombre: "Café Orgánico Molido 1 (500g)" },
+  { $set: { precio: 42000 } }
+)
+
+código para eliminar datos de la tabla. en este caso se elimina el registro que tenga el nombre especificado
+
+db["cafesantander"].deleteOne({ nombre: "Café Orgánico Molido 2 (500g)" })
+
+Codigo para hacer consultas de las tablas.en este caso se consulta los productos que esten entre 30000 y 40000
+
+db["cafesantander"].find({ precio: { $gte: 30000, $lte: 40000 } })
+
+En este caso se consulta los datos de café que sean de origen especificado y que su stock sea mayor a 100
+
+db["cafesantander"].find({
+  "origen": "San Gil",
+  stock: { $gt: 100 }
+})
+
+Codigo para consultar por agregación. en este caso se consulta y se agrupa por tipo de tueste del cafe
+
+db["cafesantander"].aggregate([
+  { $group: { _id: "$tueste", total: { $sum: 1 } } }
+])
+
+En este caso se hace la consulta en general para saber el promedio de precios por sitio de origen
+
+db["cafesantander"].aggregate([
+  { $group: { _id: "$origen", precio_promedio: { $avg: "$precio" } } }
+])
+
+

@@ -1,0 +1,21 @@
+_id,id_cliente,nombre,correo,telefono,direccion,municipio
+6913615e2dd880fdfcd9da25,C001,Jeffrey Muñoz,jeffrey.muñoz@example.com,3148237465,Cra 3 # 1 - 16,Aratoca
+6913615e2dd880fdfcd9da26,C002,Laura Martínez,laura.martínez@example.com,3175628390,Cra 12 # 7 - 21,San Gil
+6913615e2dd880fdfcd9da27,C003,Juan Gómez,juan.gómez@example.com,3194058723,Cra 20 # 9 - 33,Barichara
+6913615e2dd880fdfcd9da28,C004,Andrés Torres,andrés.torres@example.com,3159847201,Cra 14 # 3 - 45,Curití
+6913615e2dd880fdfcd9da29,C005,María López,maría.lópez@example.com,3102849376,Cra 25 # 2 - 18,Zapatoca
+6913615e2dd880fdfcd9da2a,C006,Camila Rojas,camila.rojas@example.com,3163982047,Cra 8 # 10 - 22,Floridablanca
+6913615e2dd880fdfcd9da2b,C007,Sebastián Díaz,sebastián.díaz@example.com,3124985703,Cra 9 # 5 - 27,Bucaramanga
+6913615e2dd880fdfcd9da2c,C008,Valentina Gutiérrez,valentina.gutiérrez@example.com,3187264095,Cra 7 # 11 - 40,Piedecuesta
+6913615e2dd880fdfcd9da2d,C009,Daniel Ramírez,daniel.ramírez@example.com,3136592871,Cra 5 # 4 - 19,El Socorro
+6913615e2dd880fdfcd9da2e,C010,Paula Suárez,paula.suárez@example.com,3179045628,Cra 11 # 6 - 23,Mogotes
+6913615e2dd880fdfcd9da2f,C011,Carlos Mendoza,carlos.mendoza@example.com,3195037246,Cra 21 # 15 - 38,Aratoca
+6913615e2dd880fdfcd9da30,C012,Natalia Vargas,natalia.vargas@example.com,3148209573,Cra 10 # 13 - 26,San Gil
+6913615e2dd880fdfcd9da31,C013,Felipe Herrera,felipe.herrera@example.com,3164928701,Cra 2 # 9 - 35,Barichara
+6913615e2dd880fdfcd9da32,C014,Liliana Pineda,liliana.pineda@example.com,3105829746,Cra 17 # 3 - 20,Curití
+6913615e2dd880fdfcd9da33,C015,Jorge Castillo,jorge.castillo@example.com,3187092534,Cra 6 # 1 - 17,Zapatoca
+6913615e2dd880fdfcd9da34,C016,Carolina Ruiz,carolina.ruiz@example.com,3158462097,Cra 12 # 7 - 33,Floridablanca
+6913615e2dd880fdfcd9da35,C017,Ricardo Peña,ricardo.peña@example.com,3124079852,Cra 4 # 10 - 29,Bucaramanga
+6913615e2dd880fdfcd9da36,C018,Sara Martínez,sara.martínez@example.com,3178092465,Cra 22 # 5 - 41,Piedecuesta
+6913615e2dd880fdfcd9da37,C019,Santiago Cárdenas,santiago.cárdenas@example.com,3195087243,Cra 19 # 3 - 12,El Socorro
+6913615e2dd880fdfcd9da38,C020,Diana Rodríguez,diana.rodríguez@example.com,3147623985,Cra 8 # 11 - 30,Mogotes
